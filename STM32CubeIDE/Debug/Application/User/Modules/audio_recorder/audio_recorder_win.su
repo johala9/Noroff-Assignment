@@ -1,0 +1,14 @@
+C:/Users/arunj/STM32CubeIDE/workspace_1.14.0/STemWin/Gui/Core/audio_recorder/audio_recorder_win.c:97:13:_BuildFileName	16	static
+C:/Users/arunj/STM32CubeIDE/workspace_1.14.0/STemWin/Gui/Core/audio_recorder/audio_recorder_win.c:109:13:_OnPaint_exit	16	static
+C:/Users/arunj/STM32CubeIDE/workspace_1.14.0/STemWin/Gui/Core/audio_recorder/audio_recorder_win.c:129:13:_OnPaint_stop	24	static
+C:/Users/arunj/STM32CubeIDE/workspace_1.14.0/STemWin/Gui/Core/audio_recorder/audio_recorder_win.c:157:13:_OnPaint_pause	24	static
+C:/Users/arunj/STM32CubeIDE/workspace_1.14.0/STemWin/Gui/Core/audio_recorder/audio_recorder_win.c:196:13:_OnPaint_record	24	static
+C:/Users/arunj/STM32CubeIDE/workspace_1.14.0/STemWin/Gui/Core/audio_recorder/audio_recorder_win.c:249:13:_cbButton_exit	16	static
+C:/Users/arunj/STM32CubeIDE/workspace_1.14.0/STemWin/Gui/Core/audio_recorder/audio_recorder_win.c:266:13:_cbButton_stop	16	static
+C:/Users/arunj/STM32CubeIDE/workspace_1.14.0/STemWin/Gui/Core/audio_recorder/audio_recorder_win.c:283:13:_cbButton_pause	16	static
+C:/Users/arunj/STM32CubeIDE/workspace_1.14.0/STemWin/Gui/Core/audio_recorder/audio_recorder_win.c:300:13:_cbButton_record	16	static
+C:/Users/arunj/STM32CubeIDE/workspace_1.14.0/STemWin/Gui/Core/audio_recorder/audio_recorder_win.c:317:13:_cbMediaConnection	24	static
+C:/Users/arunj/STM32CubeIDE/workspace_1.14.0/STemWin/Gui/Core/audio_recorder/audio_recorder_win.c:410:13:_cbAudioProcess	48	static
+C:/Users/arunj/STM32CubeIDE/workspace_1.14.0/STemWin/Gui/Core/audio_recorder/audio_recorder_win.c:470:6:_cbNotifyStateChange	16	static
+C:/Users/arunj/STM32CubeIDE/workspace_1.14.0/STemWin/Gui/Core/audio_recorder/audio_recorder_win.c:508:13:_cbDialog	48	static
+C:/Users/arunj/STM32CubeIDE/workspace_1.14.0/STemWin/Gui/Core/audio_recorder/audio_recorder_win.c:767:13:Startup	24	static

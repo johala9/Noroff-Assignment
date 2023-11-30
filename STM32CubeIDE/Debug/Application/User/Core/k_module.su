@@ -1,0 +1,7 @@
+C:/Users/arunj/STM32CubeIDE/workspace_1.14.0/STemWin/Core/Src/k_module.c:48:6:Module_Init	8	static
+C:/Users/arunj/STM32CubeIDE/workspace_1.14.0/STemWin/Core/Src/k_module.c:61:9:k_ModuleGetNumber	4	static
+C:/Users/arunj/STM32CubeIDE/workspace_1.14.0/STemWin/Core/Src/k_module.c:73:9:Module_Enable	16	static
+C:/Users/arunj/STM32CubeIDE/workspace_1.14.0/STemWin/Core/Src/k_module.c:91:9:k_ModuleGetIndex	24	static
+C:/Users/arunj/STM32CubeIDE/workspace_1.14.0/STemWin/Core/Src/k_module.c:111:9:k_ModuleOpenLink	16	static
+C:/Users/arunj/STM32CubeIDE/workspace_1.14.0/STemWin/Core/Src/k_module.c:132:25:k_ModuleCheckLink	24	static
+C:/Users/arunj/STM32CubeIDE/workspace_1.14.0/STemWin/Core/Src/k_module.c:152:6:k_ModuleRemove	24	static

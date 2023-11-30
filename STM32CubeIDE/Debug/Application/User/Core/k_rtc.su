@@ -1,0 +1,9 @@
+C:/Users/arunj/STM32CubeIDE/workspace_1.14.0/STemWin/Core/Src/k_rtc.c:43:6:k_CalendarBkupInit	8	static
+C:/Users/arunj/STM32CubeIDE/workspace_1.14.0/STemWin/Core/Src/k_rtc.c:75:6:HAL_RTC_MspInit	128	static
+C:/Users/arunj/STM32CubeIDE/workspace_1.14.0/STemWin/Core/Src/k_rtc.c:109:6:HAL_RTC_MspDeInit	16	static
+C:/Users/arunj/STM32CubeIDE/workspace_1.14.0/STemWin/Core/Src/k_rtc.c:124:6:k_BkupSaveParameter	16	static
+C:/Users/arunj/STM32CubeIDE/workspace_1.14.0/STemWin/Core/Src/k_rtc.c:136:10:k_BkupRestoreParameter	16	static
+C:/Users/arunj/STM32CubeIDE/workspace_1.14.0/STemWin/Core/Src/k_rtc.c:146:6:k_GetTime	16	static
+C:/Users/arunj/STM32CubeIDE/workspace_1.14.0/STemWin/Core/Src/k_rtc.c:156:6:k_SetTime	16	static
+C:/Users/arunj/STM32CubeIDE/workspace_1.14.0/STemWin/Core/Src/k_rtc.c:169:6:k_GetDate	16	static
+C:/Users/arunj/STM32CubeIDE/workspace_1.14.0/STemWin/Core/Src/k_rtc.c:184:6:k_SetDate	16	static

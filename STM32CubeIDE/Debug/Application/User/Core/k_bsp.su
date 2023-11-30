@@ -1,0 +1,3 @@
+C:/Users/arunj/STM32CubeIDE/workspace_1.14.0/STemWin/Core/Src/k_bsp.c:37:6:LCD_Init	16	static
+C:/Users/arunj/STM32CubeIDE/workspace_1.14.0/STemWin/Core/Src/k_bsp.c:70:6:LCD_Touch_Update	32	static
+C:/Users/arunj/STM32CubeIDE/workspace_1.14.0/STemWin/Core/Src/k_bsp.c:130:6:k_Bsp_LCD_Reset	32	static

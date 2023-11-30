@@ -1,0 +1,9 @@
+C:/Users/arunj/STM32CubeIDE/workspace_1.14.0/STemWin/Core/Src/k_storage.c:67:6:k_StorageInit	1
+C:/Users/arunj/STM32CubeIDE/workspace_1.14.0/STemWin/Core/Src/k_storage.c:95:13:StorageThread	4
+C:/Users/arunj/STM32CubeIDE/workspace_1.14.0/STemWin/Core/Src/k_storage.c:126:9:k_StorageGetStatus	1
+C:/Users/arunj/STM32CubeIDE/workspace_1.14.0/STemWin/Core/Src/k_storage.c:136:10:k_StorageGetCapacity	2
+C:/Users/arunj/STM32CubeIDE/workspace_1.14.0/STemWin/Core/Src/k_storage.c:154:10:k_StorageGetFree	3
+C:/Users/arunj/STM32CubeIDE/workspace_1.14.0/STemWin/Core/Src/k_storage.c:181:13:USBH_UserProcess	5
+C:/Users/arunj/STM32CubeIDE/workspace_1.14.0/STemWin/Core/Src/k_storage.c:204:13:GetExt	4
+C:/Users/arunj/STM32CubeIDE/workspace_1.14.0/STemWin/Core/Src/k_storage.c:234:6:k_GetExtOnly	4
+C:/Users/arunj/STM32CubeIDE/workspace_1.14.0/STemWin/Core/Src/k_storage.c:261:5:k_GetData	33

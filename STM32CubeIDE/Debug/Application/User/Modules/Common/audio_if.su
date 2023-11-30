@@ -1,0 +1,4 @@
+C:/Users/arunj/STM32CubeIDE/workspace_1.14.0/STemWin/Modules/Common/audio_if.c:49:6:AUDIO_IF_RegisterCallbacks	24	static
+C:/Users/arunj/STM32CubeIDE/workspace_1.14.0/STemWin/Modules/Common/audio_if.c:62:6:BSP_AUDIO_OUT_TransferComplete_CallBack	8	static
+C:/Users/arunj/STM32CubeIDE/workspace_1.14.0/STemWin/Modules/Common/audio_if.c:75:6:BSP_AUDIO_OUT_HalfTransfer_CallBack	8	static
+C:/Users/arunj/STM32CubeIDE/workspace_1.14.0/STemWin/Modules/Common/audio_if.c:88:6:BSP_AUDIO_OUT_Error_CallBack	8	static
