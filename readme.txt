@@ -3,7 +3,7 @@
  
   @verbatim
   ******************************************************************************
-  * @file    Demonstrations/STemWin/readme.txt 
+  * @file    STemWin/readme.txt 
   * @author  Arun Johal
   * @brief   Description of STM32469I-DISCO Assignment Project
   ******************************************************************************
