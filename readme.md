@@ -33,5 +33,13 @@ Module Overview:
  + System Information
  --------------  
  Displays board information along with assignment version.
+
+
+Unit Tests:
+
+ + Located inside Modules/control_page/control_page.c
+ -------------------
+ Simple tests to check the functions are as expected behaviour. Due to function simpslicity, in demo
+ they do not hold huge merit, however they demonstrate the basic theory behind tests and checks in embedded.
  
  */
