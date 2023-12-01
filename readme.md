@@ -8,13 +8,10 @@
   * @brief   Description of STM32469I-DISCO Assignment Project
   ******************************************************************************
   * @attention
-  *
   * Special mention and credit to the MCD Application for providing adapted logic
   * from various public use demonstration componenets provided in STM32CubeIDE.
-  *
   * WARNING: Some unused modules are still present to enable future imlementation
   * if needs be.
-  *
   ******************************************************************************
    @endverbatim
 
