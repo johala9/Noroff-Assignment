@@ -21,8 +21,7 @@
 @par Description
 
 The project is based around the graphical library STemWin, and the FreeRTOS 
-real time operating system and several Middleware components. Features include: LCD with touch 
-screen, timers, pin control and thread setup to allow ease of future iterations. 
+real time operating system and several Middleware components.
 
 Features:
   + LCD
