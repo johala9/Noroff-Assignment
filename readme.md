@@ -24,6 +24,13 @@ The project is based around the graphical library STemWin, and the FreeRTOS
 real time operating system and several Middleware components. Features include: LCD with touch 
 screen, timers, pin control and thread setup to allow ease of future iterations. 
 
+Features:
+  + LCD
+  + Touchscreen (utilises I2C)
+  + Peripheral control
+  + Timer
+  + Threads
+
 Module Overview:
 
  + Light Control
@@ -42,4 +49,4 @@ Unit Tests:
  Simple tests to check the functions are as expected behaviour. Due to function simpslicity, in demo
  they do not hold huge merit, however they demonstrate the basic theory behind tests and checks in embedded.
  
- */
+*/
